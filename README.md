@@ -2,7 +2,6 @@
 <ul>
 <li>Học vấn: <strong>Trường Đại học Ngoại ngữ - Tin học TP.HCM</strong> </li>
 <li>Chuyên ngành: <strong>Công nghệ phần mềm</strong></li>
-<li>Portfolio: **[Link đến website cá nhân hoặc CV]**</li>
 </ul>
 <p><strong>Kết nối với tôi</strong></p>
 <p>
